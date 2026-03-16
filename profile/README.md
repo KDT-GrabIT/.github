@@ -12,7 +12,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://grab-it.duckdns.org/">웹사이트</a>
+  <a href="https://grab-it.duckdns.org/">🖥️ 웹사이트</a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/KDT-GrabIT/GrabIT-Android">⚙️ Android Repo</a>
   &nbsp; | &nbsp;
   <a href="https://www.notion.so/GrabIT-2e6441f66d7881b487d7d4e07a299fa6?source=copy_link">Notion</a>
 </div>
