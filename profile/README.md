@@ -1,5 +1,3 @@
-### GrabIT - 시각장애인을 위한 AI 보조 서비스
-
 <div align="center">
   <h1>GrabIT - 시각장애인을 위한 AI 보조 서비스</h1>
   <p>🔍 AI 기반 객체 인식 및 정보 제공 서비스 🔍</p>
